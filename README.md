@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/netsamurai.png" alt="netSamurai" width="512" />
+  <img src="assets/ikusaone.png" alt="Ikusa One" width="489" />
   <p align="center">
-    Official direct distribution repository for netSamurai mobile application.<br />
-    <a href="https://netsamurai.app"><b>netsamurai.app</b></a>
+    Official direct distribution repository for Ikusa One mobile application.<br />
+    <a href="https://ikusa.tech"><b>ikusa.tech</b></a>
   </p>
 </p>
 
@@ -10,7 +10,7 @@
 
 ## Unrestricted Sideload Edition
 
-The APKs hosted in this repository are **unrestricted** standalone builds that include **full device-wide blocking features, including ad-blocking, telemetry, and tracker protection)**. 
+The APKs hosted in this repository are **unrestricted** standalone builds that include **full device-wide blocking features (including ad-blocking, telemetry, and tracker protection)**. 
 
 Due to Google Play Developer Policy restrictions regarding ad-blocking functionality, these features cannot be distributed through the Play Store.
 
